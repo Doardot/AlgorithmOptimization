@@ -5,3 +5,6 @@
 - [Knapsack Problem](https://youtu.be/8LusJS5-AGo?si=RY4uVyX216ie1ov-)
 - [Knapsack Problem (Explicação Alternativa)](https://youtu.be/cJ21moQpofY?si=XWXpAf4EAQd2omXT)
 - [Minimum Edit Distance (Dynamic Programming)](https://youtu.be/We3YDTzNXEk?si=S7Tg4aD0h1tRpxTg)
+
+### Algoritmos gulosos
+- [Greedy Algorithms](https://www.youtube.com/watch?v=HzeK7g8cD0Y)

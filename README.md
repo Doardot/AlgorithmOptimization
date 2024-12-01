@@ -8,3 +8,6 @@
 
 ### Algoritmos gulosos
 - [Greedy Algorithms](https://www.youtube.com/watch?v=HzeK7g8cD0Y)
+
+### Backtracking
+- [N-Queens Problem](https://www.youtube.com/watch?v=wGbuCyNpxIg)

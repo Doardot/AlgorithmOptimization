@@ -11,3 +11,7 @@
 
 ### Backtracking
 - [N-Queens Problem](https://www.youtube.com/watch?v=wGbuCyNpxIg)
+
+### Pattern Matching
+- [Knuth–Morris–Pratt(KMP) Pattern Matching(Substring search)](https://www.youtube.com/watch?v=GTJr8OvyEVQ)
+- [Rabin-Karp Algorithm for Pattern Searching](https://www.youtube.com/watch?v=H4VrKHVG5qI)
